@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color:#c876ff;
+}
+
+div{
+  margin-right: 15px;
+}
+
+.image-section{
+  display: flex;
+  justify-content: center;
+}
+
+.section-style{
+  margin-right:25px;
+  margin-left:25px;
+  
+  
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+#google
+{
+color:black;
+text-align:right
+}
+p{
+  color:
+#3c28a6}
+
+h1{
+  color:#2b6684;
+}
